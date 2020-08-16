@@ -1,0 +1,25 @@
+************* SORTED TABLES RESULT *********************
+               Table of Integers
+TableInt[0]:2
+TableInt[1]:4
+TableInt[2]:9
+TableInt[3]:9
+TableInt[4]:20
+TableInt[5]:34
+TableInt[6]:36
+TableInt[7]:47
+TableInt[8]:48
+TableInt[9]:49
+
+               Table of Floats
+TableFloat[0]:4.96133
+TableFloat[1]:15.2244
+TableFloat[2]:15.7245
+TableFloat[3]:16.9005
+TableFloat[4]:24.0611
+TableFloat[5]:38.6061
+TableFloat[6]:43.6511
+TableFloat[7]:44.7415
+TableFloat[8]:45.1443
+TableFloat[9]:45.8046
+*******************************************************

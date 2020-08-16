@@ -1,0 +1,15 @@
+#Informatics and telecommunications department
+#Data for appending in  a list
+#Author Nastos Vasileios
+
+7.9
+14.5
+21.4
+17.8
+3.2
+2.1
+9.8
+4.3
+21.4
+6.9
+43.1

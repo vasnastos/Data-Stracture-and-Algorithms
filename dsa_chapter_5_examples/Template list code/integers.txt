@@ -1,0 +1,16 @@
+#Informatics and telecommunications department
+#Data for appending in  a list
+#Author Nastos Vasileios
+
+9
+34
+7
+4
+2
+8
+12
+17
+21
+98
+3
+5

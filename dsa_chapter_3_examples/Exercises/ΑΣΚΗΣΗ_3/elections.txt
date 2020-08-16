@@ -1,0 +1,14 @@
+#Informatics and Telecommunications
+#Author Nastos Vasileios
+#29/06/2020
+
+#RESULTS
+pasok,200000
+nd,3459000
+komma_3,56789
+komma_4,12345
+abcd,3456
+vbfd,6789000
+retyu,54321
+komma_n,10000
+komma_23,4567
