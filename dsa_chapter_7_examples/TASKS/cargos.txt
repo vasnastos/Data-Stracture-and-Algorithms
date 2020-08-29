@@ -1,0 +1,23 @@
+#Inforamtics and telocommunications department
+#demo datasheet
+#created by Nastos Vasileios
+
+cargo1,jkl12,12.000
+cargo2,hja13,87.56
+cargo3,nbv45,50.23
+cargo4,tyu67,4000.98
+cargo5,rew90,189.00
+cargo6,nxq07,12.00
+cargo7,cdr45,90.00
+cargo8,mzq71,2.67
+Renew Data at:Aug 28 2020----00:01:19
+*********************************************************
+Name:cargo1   Serial:jkl12   Cost:12
+Name:cargo2   Serial:hja13   Cost:87.56
+Name:cargo3   Serial:nbv45   Cost:50.23
+Name:cargo4   Serial:tyu67   Cost:4201.03
+Name:cargo5   Serial:rew90   Cost:198.45
+Name:cargo6   Serial:nxq07   Cost:12
+Name:cargo7   Serial:cdr45   Cost:94.5
+Name:cargo8   Serial:mzq71   Cost:2.67
+**********************************************************
