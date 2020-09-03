@@ -1,0 +1,6 @@
+Android-39.23
+Windows-35.43
+Ios-14.53
+Os X-7.78
+Unknow-1.48
+Linux-0.85

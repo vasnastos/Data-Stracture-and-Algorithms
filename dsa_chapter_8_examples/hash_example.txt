@@ -1,0 +1,7 @@
+#Values in order to placed in a hash table
+
+Cpp
+Java
+Swift
+Python
+Javascript
