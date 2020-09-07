@@ -25,7 +25,7 @@
 <ul>
 <li><a href="https://github.com/vasnastos/Data-Stracture-and-Algorithms/tree/master/dsa_chapter_9_examples/graph1">Ανάγνωση δεδομένων γραφήματος από αρχείο(Πίνακας Γειτνίασης).</a></li>
 <li><a href="https://github.com/vasnastos/Data-Stracture-and-Algorithms/tree/master/dsa_chapter_9_examples/graph2">Ανάγνωση δεδομένων γραφήματος από αρχείο(Λίστες Γειτνίασης).</a></li>
-<li><a href="">Κατευθυνόμενο γράφημα.</li>
+<li><a href="https://github.com/vasnastos/Page_Images/blob/master/under_construction.html">Κατευθυνόμενο γράφημα.</li>
 </ul>
 </body>
 </html>
