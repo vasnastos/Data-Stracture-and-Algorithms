@@ -1,7 +1,7 @@
 <html>
 <body>
 <h2>ΕΠΙΠΛΕΟΝ ΑΣΚΗΣΕΙΣ</h2>
-<img src="https://github.com/vasnastos/Page_Images/blob/master/src/dsa.jpg" width="1024" height="440"></img>
+<img src="https://github.com/vasnastos/Page_Images/blob/master/dsa.gif" width="1024" height="440"></img>
   <ol>
     <li>Να γράψετε πρόγραμμα που να γεμίζει έναν πίνακα 100 θέσεων με τυχαίες ακέραιες τιμές στο διάστημα [0,1000].
  Κατασκευάστε μια συνάρτηση που να δέχεται 
