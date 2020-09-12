@@ -37,9 +37,14 @@
 <li>Εμφανίστε όλες τις εγγραφές της λίστας από το τέλος προς την αρχή.</li>
   </ul>
         <ul>
-          <li><a href="https://github.com/vasnastos/Data-Stracture-and-Algorithms/blob/master/EXERCISES/extraex3.cpp">Solution</a></li>
           <li><a href="https://github.com/vasnastos/Page_Images/raw/master/students.zip">Txt</a></li>
+          <li><a href="https://github.com/vasnastos/Data-Stracture-and-Algorithms/blob/master/EXERCISES/extraex3.cpp">Solution</a></li>
           </ul>
+  <lι>Επαναλάβετε τα παραπάνω βήματα(ΑΣΚΗΣΗ_3) χρησιμοποιώντας τη δομή διπλά συνδεδεμένης λίστας που παρέχει η STL.</li>
+  <ul>
+    <li><a href="https://github.com/vasnastos/Page_Images/raw/master/students.zip">Txt</a></li>
+    <li><a href="">Solution</a></li>
+    </ul>
     </ol>
 </body>
 </html>
