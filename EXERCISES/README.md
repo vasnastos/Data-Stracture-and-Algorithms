@@ -37,8 +37,8 @@
 <li>Εμφανίστε όλες τις εγγραφές της λίστας από το τέλος προς την αρχή.</li>
   </ul>
         <ul>
-          <li><a href="">ΛΥΣΗ</a></li>
-          <li><a href="https://github.com/vasnastos/Page_Images/raw/master/students.zip">ΕΓΓΡΑΦΟ txt</a></li>
+          <li><a href="">Solution</a></li>
+          <li><a href="https://github.com/vasnastos/Page_Images/raw/master/students.zip">Txt</a></li>
           </ul>
     </ol>
 </body>
