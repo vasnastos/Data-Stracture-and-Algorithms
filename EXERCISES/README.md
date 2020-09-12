@@ -17,7 +17,7 @@
 τη μεγαλύτερη μεταβολή πληθυσμού.</li>
     <ul>
       <li>Csv Αρχείο:<a href="https://github.com/vasnastos/Page_Images/raw/master/population_by_figures.zip">Csv</a></li>
-      <li>ΛΥΣΗ:<a href="https://github.com/vasnastos/Data-Stracture-and-Algorithms/blob/master/EXERCISES/extraex2.cpp">Solution</li>
+      <li>ΛΥΣΗ:<a href="https://github.com/vasnastos/Data-Stracture-and-Algorithms/blob/master/EXERCISES/extraex2.cpp">Solution</a></li>
       </ul>
     <hr>
     <li>Υλοποιήστε μια διπλά συνδεδεμένη λίστα (double_linked_list) που να υποστηρίζει τις ακόλουθες λειτουργίες:
