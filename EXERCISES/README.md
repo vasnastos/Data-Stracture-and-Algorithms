@@ -37,7 +37,7 @@
 <li>Εμφανίστε όλες τις εγγραφές της λίστας από το τέλος προς την αρχή.</li>
   </ul>
         <ul>
-          <li><a href="">Solution</a></li>
+          <li><a href="https://github.com/vasnastos/Data-Stracture-and-Algorithms/blob/master/EXERCISES/extraex3.cpp">Solution</a></li>
           <li><a href="https://github.com/vasnastos/Page_Images/raw/master/students.zip">Txt</a></li>
           </ul>
     </ol>
