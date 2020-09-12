@@ -44,7 +44,7 @@
   <li>Επαναλάβετε τα παραπάνω βήματα(ΑΣΚΗΣΗ_3) χρησιμοποιώντας τη δομή διπλά συνδεδεμένης λίστας που παρέχει η STL.</li>
   <ul>
     <li><a href="https://github.com/vasnastos/Page_Images/raw/master/students.zip">Txt</a></li>
-    <li><a href="">Solution</a></li>
+    <li><a href="https://github.com/vasnastos/Data-Stracture-and-Algorithms/blob/master/EXERCISES/extraex4.cpp">Solution</a></li>
     </ul>
     </ol>
 </body>
