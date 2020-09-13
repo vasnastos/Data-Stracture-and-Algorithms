@@ -46,6 +46,31 @@
     <li><a href="https://github.com/vasnastos/Page_Images/raw/master/students.zip">Txt</a></li>
     <li><a href="https://github.com/vasnastos/Data-Stracture-and-Algorithms/blob/master/EXERCISES/extraex4.cpp">Solution</a></li>
     </ul>
+     <li>ράψτε ένα πρόγραμμα που να δημιουργεί ένα απλό blockchain. 
+Το blockchain είναι μια αλυσίδα από μπλοκς για τα οποία ισχύει ότι το hash του προηγούμενου 
+μπλοκ καταγράφεται ως πληροφορία στο τρέχον μπλοκ. Υλοποιήστε το blockchain σύμφωνα με τις ακόλουθες οδηγίες:
+Κάθε μπλοκ του blockchain να είναι ένα struct που να αποτελείται από 
+τα εξής στοιχεία: id (τύπου size_t), timestamp (τύπου string), data (τύπου string), nonce (τύπου size_t) και previous_hash (τύπου size_t).</li>
+  <ul>
+    <li>Να γράψετε συνάρτηση size_t hash_combined(block &a_block) που να επιστρέφει το hash 
+ενός μπλοκ ως hash του λεκτικού που προκύπτει από τη συνένωση ως ένα λεκτικό των επιμέρους στοιχείων του μπλοκ.</li>
+    <li>Για τον υπολογισμό του hash του λεκτικού να χρησιμοποιηθεί η std::hash.
+Να γράψετε συνάρτηση void find_nonce(block &a_block, int difficulty) που να αλλάζει την τιμή του πεδίου nonce του a_block 
+(ξεκινώντας από το 0 και δοκιμάζοντας διαδοχικά τιμές που αυξάνονται κατά 1) έτσι ώστε η hash τιμή του block να έχει 
+τόσα συνεχόμενα μηδενικά στο τέλος όσα η τιμή της μεταβλητής difficulty.</li>
+    <li>Το αρχικό μπλοκ να έχει τα εξής στοιχεία: {0, <τρέχουσα ημερομηνία και ώρα>, “GENESIS BLOCK”,, 0} 
+και να τοποθετείται σε μια std::list της STL.Η <τρέχουσα ημερομηνία και ώρα> να καταγράφεται ως YYYY-MM-DD HH:MM:SS. 
+Το nonce να υπολογίζεται με difficulty=7.</li>
+      <li>Να συμπληρωθούν 7 επιπλέον μπλοκς έτσι ώστε το blockchain το οποίο θα έχει δημιουργηθεί με difficulty=7 να 
+περιέχει πληροφορία αντίστοιχη με την ακόλουθη.
+        <img src="https://github.com/vasnastos/Page_Images/blob/master/src/blockchain.png" width="1024" height="490"><img>
+        </li>
+      <li>Να γράψετε συνάρτηση bool check_valid_blockchain(list &chain) που 
+να επιστρέφει εάν το blockchain είναι έγκυρο ή όχι, εξετάζοντας την καταγεγραμμένη τιμή του previous_hash σε κάθε 
+μπλοκ με την hash τιμή του προηγούμενου μπλοκ. Ελέγξτε την εγκυρότητα του blockchain.</li>
+      <li>Αλλάξτε το προτελευταίο block έτσι ώστε να περιέχει ως data το κείμενο «Bob pays 5000 euros to David» και 
+ελέγξτε εκ νέου την εγκυρότητα του blockchain.</li>
+    </ul>
     </ol>
 </body>
 </html>
