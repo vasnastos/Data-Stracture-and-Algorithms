@@ -46,6 +46,7 @@
     <li><a href="https://github.com/vasnastos/Page_Images/raw/master/students.zip">Txt</a></li>
     <li><a href="https://github.com/vasnastos/Data-Stracture-and-Algorithms/blob/master/EXERCISES/extraex4.cpp">Solution</a></li>
     </ul>
+  <hr>
      <li>Γράψτε ένα πρόγραμμα που να δημιουργεί ένα απλό blockchain. 
 Το blockchain είναι μια αλυσίδα από μπλοκς για τα οποία ισχύει ότι το hash του προηγούμενου 
 μπλοκ καταγράφεται ως πληροφορία στο τρέχον μπλοκ. Υλοποιήστε το blockchain σύμφωνα με τις ακόλουθες οδηγίες:
@@ -70,6 +71,8 @@
 μπλοκ με την hash τιμή του προηγούμενου μπλοκ. Ελέγξτε την εγκυρότητα του blockchain.</li>
       <li>Αλλάξτε το προτελευταίο block έτσι ώστε να περιέχει ως data το κείμενο «Bob pays 5000 euros to David» και 
 ελέγξτε εκ νέου την εγκυρότητα του blockchain.</li>
+      <li><a href="">Solution</a></li>
+      <li><a href="">Result_Files</a></li>
     </ul>
     </ol>
 </body>
