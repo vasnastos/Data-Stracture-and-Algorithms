@@ -83,9 +83,9 @@
       <li>Εφαρμόζει τον αλγόριθμο τοπολογικής ταξινόμησης του Kahn και καταγράφει τα αποτελέσματα σε αρχείο.</li>
       </ol>
     <ul>
-      <li><a href="">Txt Dag</a></li>
+      <li><a href="https://github.com/vasnastos/Page_Images/raw/master/source.zip">Txt Dag</a></li>
       <li><a href="">Solution</a></li>
-      <li><a href="">Results files</a></li>
+      <li><a href="https://github.com/vasnastos/Page_Images/raw/master/kahnsresult.zip">Results files</a></li>
       </ul>
     </ol>
 </body>
