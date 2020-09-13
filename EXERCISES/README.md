@@ -72,7 +72,7 @@
       <li>Αλλάξτε το προτελευταίο block έτσι ώστε να περιέχει ως data το κείμενο «Bob pays 5000 euros to David» και 
 ελέγξτε εκ νέου την εγκυρότητα του blockchain.</li>
       <li><a href="">Solution</a></li>
-      <li><a href="">Result_Files</a></li>
+      <li><a href="https://github.com/vasnastos/Page_Images/raw/master/blockchain.zip">Result_Files</a></li>
     </ul>
     </ol>
 </body>
