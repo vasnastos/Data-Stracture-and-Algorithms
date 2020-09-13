@@ -74,6 +74,19 @@
       <li><a href="https://github.com/vasnastos/Data-Stracture-and-Algorithms/blob/master/EXERCISES/extraex5.cpp">Solution</a></li>
       <li><a href="https://github.com/vasnastos/Page_Images/raw/master/blockchain.zip">Result Files</a></li>
     </ul>
+      <hr>
+      <li>Υλοποιήστε τον αλγόριθμο του Kahn για τοπολογική ταξινόμηση κατευθυνόμενων ακυκλικών γραφημάτων (Directed Acyclic Graphs).Θεωρείστε ότι τα γραφήματα καταγράφονται σε πίνακες γειτνίασης. Για παράδειγμα o πίνακας γειτνίασης καταγράφεται 
+ ως ο παρακάτω πίνακας:
+        <img src="https://github.com/vasnastos/Page_Images/blob/master/src/adj_matrix_kahn.png" width="1024" height="430"><img>Ειδικότερα, αναπτύξτε ένα πρόγραμμα που:</li>
+    <ol>
+      <li>Διαβάζει αρχείο στο οποίο είναι αποθηκευμένο ένα DAG.</li>
+      <li>Εφαρμόζει τον αλγόριθμο τοπολογικής ταξινόμησης του Kahn και καταγράφει τα αποτελέσματα σε αρχείο.</li>
+      </ol>
+    <ul>
+      <li><a href="">Txt Dag</a></li>
+      <li><a href="">Solution</a></li>
+      <li><a href="">Results files</a></li>
+      </ul>
     </ol>
 </body>
 </html>
