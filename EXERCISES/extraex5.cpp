@@ -85,6 +85,8 @@ id: 0
 #include <algorithm>
 #include <fstream>
 #include <random>
+#include <cstdio>
+#include <ctime>
 
 struct block
 {
@@ -94,6 +96,15 @@ struct block
     size_t nonce;
     size_t previous_hash;
 };
+
+const std::string currentDateTime() {
+    time_t     now = time(0);
+    struct tm  tstruct;
+    char       buf[80];
+    tstruct = *localtime(&now);
+    strftime(buf, sizeof(buf), "%Y-%m-%d %X", &tstruct);
+    return buf;
+}
 
 size_t hash_combined(block &ablock)
 {
@@ -205,9 +216,7 @@ int main()
     int size=sizeof(data)/sizeof(data[0]);
     for(int i=0;i<size;i++)
     {
-        std::string date=__DATE__;
-        std::string time=__TIME__;
-        block ablock{i,date+" "+time,data[i],0,0};
+        block ablock{i,currentDateTime(),data[i],0,0};
         blocks.push_back(ablock);
     }
     block previous_hash;
@@ -228,7 +237,7 @@ int main()
     {
         std::cout<<"id:"<<itr->id<<std::endl;
         std::cout<<"data:"<<itr->data<<std::endl;
-        std::cout<<"TimeStamp"<<itr->timestamp<<std::endl;
+        std::cout<<"TimeStamp:"<<itr->timestamp<<std::endl;
         std::cout<<"Nonce:"<<itr->nonce<<std::endl;
         std::cout<<"Previous Hash:"<<itr->previous_hash<<std::endl;
         std::cout<<"Hash:"<<hash_combined(*itr)<<std::endl<<std::endl;
