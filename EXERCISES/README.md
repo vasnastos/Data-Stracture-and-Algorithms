@@ -63,7 +63,7 @@
 Το nonce να υπολογίζεται με difficulty=7.</li>
       <li>Να συμπληρωθούν 7 επιπλέον μπλοκς έτσι ώστε το blockchain το οποίο θα έχει δημιουργηθεί με difficulty=7 να 
 περιέχει πληροφορία αντίστοιχη με την ακόλουθη.
-        <img src="https://github.com/vasnastos/Page_Images/blob/master/src/blockchain.png" width="1024" height="1024"><img>
+        <img src="https://github.com/vasnastos/Page_Images/blob/master/src/blockchain.png" width="1024" height="1500"><img>
         </li>
       <li>Να γράψετε συνάρτηση bool check_valid_blockchain(list &chain) που 
 να επιστρέφει εάν το blockchain είναι έγκυρο ή όχι, εξετάζοντας την καταγεγραμμένη τιμή του previous_hash σε κάθε 
