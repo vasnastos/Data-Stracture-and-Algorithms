@@ -83,7 +83,7 @@
       <li>Εφαρμόζει τον αλγόριθμο τοπολογικής ταξινόμησης του Kahn και καταγράφει τα αποτελέσματα σε αρχείο.</li>
       </ol>
     <ul>
-      <li><a href="https://www.geeksforgeeks.org/topological-sorting-indegree-based-solution/ target=_blank">Kahn's Algorithm</a></li>
+      <li><a href="https://www.geeksforgeeks.org/topological-sorting-indegree-based-solution/" "target=_blank">Kahn's Algorithm</a></li>
       <li><a href="https://github.com/vasnastos/Page_Images/raw/master/source.zip">Txt Dag</a></li>
       <li><a href="https://github.com/vasnastos/Data-Stracture-and-Algorithms/blob/master/EXERCISES/extraex6.cpp">Solution</a></li>
       <li><a href="https://github.com/vasnastos/Page_Images/raw/master/kahnsresult.zip">Results files</a></li>
