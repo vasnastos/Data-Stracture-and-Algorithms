@@ -97,7 +97,7 @@
      <li>εισάγεται το στοιχειο 'katerina',6978543671 στο τέλος της λίστας.</li>
       <br>
       <li><a href="https://github.com/vasnastos/Page_Images/raw/master/contacts.zip">Txt Contacts</a></li>
-      <li><a href="">Solution</a></li>
+      <li><a href="https://github.com/vasnastos/Data-Stracture-and-Algorithms/blob/master/EXERCISES/extraex7.cpp">Solution</a></li>
       </ul>
     </ol>
 </body>
