@@ -105,7 +105,7 @@
 και να ενημερώνει τον πίνακα κατακερματισμού ετσι ώστε κάθε νέα τιμή που διαβάζεται να προστίθεται
 στο σκορ του κατάλληλου παίκτη.Να εμφανίζεται το σκορ κάθε παίκτη.</li>
   <ul>
-    <li><a href="">Txt Players</a></li>
+    <li><a href="https://github.com/vasnastos/Page_Images/raw/master/exercise8.zip">Txt Players</a></li>
     <li><a href="https://github.com/vasnastos/Data-Stracture-and-Algorithms/blob/master/EXERCISES/extraex8.cpp">Solution</a></li>
     </ul>
    </ol>
