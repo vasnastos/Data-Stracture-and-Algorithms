@@ -99,7 +99,6 @@
       <li><a href="https://github.com/vasnastos/Page_Images/raw/master/contacts.zip">Txt Contacts</a></li>
       <li><a href="https://github.com/vasnastos/Data-Stracture-and-Algorithms/blob/master/EXERCISES/extraex7.cpp">Solution</a></li>
       </ul>
-    </ol>
   <hr>
   <li>Γράψτε πρόγραμμα που να εισάγει σε ένα πίνακα κατακερματισμού ως κλειδιά τα ονόματα παικτών
 παικτών και ως τιμές τα σκορ του.Τα δεδομένα θα διαβάζονται απο ένα αρχείο.To Πρόγραμμα να δέχεται 3 ζεύγη τιμών (όνομα παίκτη και πόντοι)
@@ -109,5 +108,6 @@
     <li><a href="">Txt Players</a></li>
     <li><a href="">Solution</a></li>
     </ul>
+   </ol>
 </body>
 </html>
