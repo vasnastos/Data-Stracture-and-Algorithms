@@ -106,7 +106,7 @@
 στο σκορ του κατάλληλου παίκτη.Να εμφανίζεται το σκορ κάθε παίκτη.</li>
   <ul>
     <li><a href="">Txt Players</a></li>
-    <li><a href="">Solution</a></li>
+    <li><a href="https://github.com/vasnastos/Data-Stracture-and-Algorithms/blob/master/EXERCISES/extraex8.cpp">Solution</a></li>
     </ul>
    </ol>
 </body>
