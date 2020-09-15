@@ -88,6 +88,14 @@
       <li><a href="https://github.com/vasnastos/Data-Stracture-and-Algorithms/blob/master/EXERCISES/extraex6.cpp">Solution</a></li>
       <li><a href="https://github.com/vasnastos/Page_Images/raw/master/kahnsresult.zip">Results files</a></li>
       </ul>
+    <hr>
+    <li>Γραψτε κώδικα που να ορίζει μία απλά συνδεδεμένη λίστα που να περιέχει ονόματα και τηλέφωνα επαφών
+    .Στο κύριο πρόγραμμα εισάγεται τα περιεχόμενα 2 πινάκων 5 θέσεων με ονόματα και τηλέφωνα στη λίστα τα οποία θα εισάγονται στους πίνακες από αρχειο contacts.txt.
+    Εμφανίστε τη λίστα διανύοντας τα περιεχόμενα της.Διαγράψτε την λίστα.
+    <ul>
+     <li>εισάγεται το στοιχείο 'vasilis',6934567129 στην κορυφή της λίστας.</li>
+     <li>εισάγεται το στοιχειο 'katerina',6978543671 στο τέλος της λίστας.</li>
+      </ul>
     </ol>
 </body>
 </html>
