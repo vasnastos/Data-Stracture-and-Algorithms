@@ -57,7 +57,7 @@ void read_data(std::vector <adjlist> &vertices)
    std::ifstream is;
    std::string line,word;
    std::vector <std::string> data;
-   is.open("graph.txt",std::ios::in);
+   is.open("graph2.txt",std::ios::in);
    int i=0;
    while(std::getline(is,line))
    {
