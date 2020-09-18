@@ -15,7 +15,7 @@ class adjlist
     node *head;
     public:
       adjlist(std::string n):vert(n),head(nullptr) {}
-      /*~adjlist()
+      void delete_list()
       {
           while(this->head!=nullptr)
           {
@@ -23,7 +23,7 @@ class adjlist
               this->head=this->head->next;
               delete temp;
           }
-      }*/
+      }
       void push_back(std::string v)
       {
           if(this->head==nullptr)
@@ -97,10 +97,19 @@ void showgraph(std::vector <adjlist> &vertices)
     }
 }
 
+void free_mem(std::vector <adjlist> &ver)
+{
+    for(auto &x:ver)
+    {
+        x.delete_list();
+    }
+}
+
 int main()
 {
     std::vector <adjlist> vertices;
     read_data(vertices);
     showgraph(vertices);
+    free_mem(vertices);
     return 0;
 }
